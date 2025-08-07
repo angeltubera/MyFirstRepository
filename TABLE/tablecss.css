@@ -1,0 +1,14 @@
+table, th, td {
+  border: 1px solid white;
+  border-radius: 10px;
+}
+th, td {
+  background-color: hsl(180, 33%, 80%);
+}
+th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
